@@ -1,6 +1,7 @@
 # Liste des membres
 @rcasteran
 @armindrv
+@vpoyard
 
 VOILA VOILA MERCI LES MACS JE SUIS LE PREMIER A COMMIT 
 SOYEZ BIEN JALOUX AVEC VOS WINDAUBES 
