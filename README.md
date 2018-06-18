@@ -1,11 +1,7 @@
 # Liste des membres
+@mabjic
 @rcasteran
+@jcossais
+@florianbrioude 
 @armindrv
 @Mystos
-
-VOILA VOILA MERCI LES MACS JE SUIS LE PREMIER A COMMIT 
-SOYEZ BIEN JALOUX AVEC VOS WINDAUBES 
-
-RAGEZ DE MON INVIT
-
-ET VOILA !! BIM !
