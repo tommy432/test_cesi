@@ -6,6 +6,6 @@
 @jcossais
 @florianbrioude 
 @armindrv
-@Gregoire
+@GregBut
 @vpoyard
 @Mystos
