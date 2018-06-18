@@ -1,8 +1,4 @@
 # Liste des membres
 @rcasteran
+@florianbrioude 
 @armindrv
-
-VOILA VOILA MERCI LES MACS JE SUIS LE PREMIER A COMMIT 
-SOYEZ BIEN JALOUX AVEC VOS WINDAUBES 
-
-RAGEZ DE MON INVIT
