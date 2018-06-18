@@ -1,9 +1,10 @@
 # Liste des membres
+@mabjic
 @rcasteran
+@thebliitzz
+@crazycoconutt
+@jcossais
+@florianbrioude 
 @armindrv
 @vpoyard
-
-VOILA VOILA MERCI LES MACS JE SUIS LE PREMIER A COMMIT 
-SOYEZ BIEN JALOUX AVEC VOS WINDAUBES 
-
-RAGEZ DE MON INVIT
+@Mystos
